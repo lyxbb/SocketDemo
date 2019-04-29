@@ -1,0 +1,7 @@
+C:\ProjectDemo\SocketDemo\MessageDemo\obj\Debug\MessageDemo.csprojResolveAssemblyReference.cache
+C:\ProjectDemo\SocketDemo\MessageDemo\obj\Debug\MessageDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\SocketDemo\MessageDemo\bin\Debug\MessageDemo.exe.config
+C:\ProjectDemo\SocketDemo\MessageDemo\bin\Debug\MessageDemo.exe
+C:\ProjectDemo\SocketDemo\MessageDemo\bin\Debug\MessageDemo.pdb
+C:\ProjectDemo\SocketDemo\MessageDemo\obj\Debug\MessageDemo.exe
+C:\ProjectDemo\SocketDemo\MessageDemo\obj\Debug\MessageDemo.pdb

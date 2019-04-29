@@ -1,0 +1,6 @@
+C:\ProjectDemo\SocketDemo\HeartBeat\bin\Debug\HeartBeat.exe
+C:\ProjectDemo\SocketDemo\HeartBeat\bin\Debug\HeartBeat.pdb
+C:\ProjectDemo\SocketDemo\HeartBeat\obj\Debug\HeartBeat.csprojResolveAssemblyReference.cache
+C:\ProjectDemo\SocketDemo\HeartBeat\obj\Debug\HeartBeat.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\SocketDemo\HeartBeat\obj\Debug\HeartBeat.exe
+C:\ProjectDemo\SocketDemo\HeartBeat\obj\Debug\HeartBeat.pdb

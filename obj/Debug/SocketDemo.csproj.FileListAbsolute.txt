@@ -1,0 +1,15 @@
+C:\ProjectDemo\TaskDemo\SocketDemo\obj\Debug\SocketDemo.csprojResolveAssemblyReference.cache
+C:\ProjectDemo\TaskDemo\SocketDemo\obj\Debug\SocketForm.Form1.resources
+C:\ProjectDemo\TaskDemo\SocketDemo\obj\Debug\SocketDemo.Properties.Resources.resources
+C:\ProjectDemo\TaskDemo\SocketDemo\obj\Debug\SocketDemo.csproj.GenerateResource.Cache
+C:\ProjectDemo\TaskDemo\SocketDemo\obj\Debug\SocketDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\SocketDemo\obj\Debug\SocketDemo.Properties.Resources.resources
+C:\ProjectDemo\SocketDemo\obj\Debug\SocketDemo.csproj.GenerateResource.Cache
+C:\ProjectDemo\SocketDemo\obj\Debug\SocketDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+C:\ProjectDemo\SocketDemo\bin\Debug\SocketDemo.exe
+C:\ProjectDemo\SocketDemo\bin\Debug\SocketDemo.pdb
+C:\ProjectDemo\SocketDemo\obj\Debug\SocketDemo.SocketForm.resources
+C:\ProjectDemo\SocketDemo\obj\Debug\SocketDemo.exe
+C:\ProjectDemo\SocketDemo\obj\Debug\SocketDemo.pdb
+C:\ProjectDemo\SocketDemo\obj\Debug\SocketDemo.csprojResolveAssemblyReference.cache
